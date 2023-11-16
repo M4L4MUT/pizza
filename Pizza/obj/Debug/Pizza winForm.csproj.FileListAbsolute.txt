@@ -1,0 +1,11 @@
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\bin\Debug\pizza.csv
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\bin\Debug\Pizza winForm.exe.config
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\bin\Debug\Pizza winForm.exe
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\bin\Debug\Pizza winForm.pdb
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\obj\Debug\Pizza winForm.csproj.AssemblyReference.cache
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\obj\Debug\Pizza_winForm.Form1.resources
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\obj\Debug\Pizza_winForm.Properties.Resources.resources
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\obj\Debug\Pizza winForm.csproj.GenerateResource.cache
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\obj\Debug\Pizza winForm.csproj.CoreCompileInputs.cache
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\obj\Debug\Pizza winForm.exe
+C:\Users\losonczi.jozsef\WindowsForms\Pizza winForm\obj\Debug\Pizza winForm.pdb

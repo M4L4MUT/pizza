@@ -73,7 +73,7 @@ namespace pizzacska
                 {
                     SaveFileDialog saveFileDialog = new SaveFileDialog();
                     saveFileDialog.InitialDirectory = Environment.CurrentDirectory;
-                    saveFileDialog.FileName = "Számla.txt";
+                    saveFileDialog.FileName = "rendeles.txt";
                     if (saveFileDialog.ShowDialog() == DialogResult.OK)
                     {
                         string szamla = saveFileDialog.FileName;
